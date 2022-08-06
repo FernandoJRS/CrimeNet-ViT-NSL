@@ -16,4 +16,4 @@ This section shows some performance of the CrimeNet model.
 
 ## Code
 
-To request the code or the data sets used, you must send an email to the email account ferrenseg@alum.us.es
+To request the code or the datasets used, you must send an email to the email account ferrenseg@alum.us.es
