@@ -2,7 +2,7 @@
 
 ## CrimeNet
 
-CrimeNet is a Visit Transformer (ViT)-based deep learning model that employs structured neural learning with adversarial regularization for violence detection. In this repository we show some tests carried out with videos of violence in real environments.
+CrimeNet is a Visit Transformer (ViT)-based deep learning model that employs neural structured learning with adversarial regularization for violence detection. In this repository we show some tests carried out with videos of violence in real environments.
 
 ## Performances CrimeNet
 
