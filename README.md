@@ -16,4 +16,4 @@ This section shows some performance of the CrimeNet model.
 
 ## Code
 
-To request the code or the datasets used, you must send an email to the email account frendon@us.es or ferrenseg@alum.us.es
+This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It can be found in the UBI-Fights directory. In it you can find the evaluation Jupyter notebook (EvaluateCrimeNet), the script with the ViT model architecture and in the subdirectory results in the file check.txt you can find the link to download the pre-trained model.
