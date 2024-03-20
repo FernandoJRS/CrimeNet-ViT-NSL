@@ -16,4 +16,4 @@ This section shows some performance of the CrimeNet model.
 
 ## Code
 
-This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It can be found in the UBI_Fights directory. In it you can find the evaluation Jupyter notebook EvaluateCrimeNet, the script with the ViT model architecture and in the subdirectory Results, in the file check.txt you can find the link to download the pre-trained model.
+This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It can be found in the UBI_Fights directory. In it you can find the evaluation Jupyter notebook EvaluateCrimeNet, the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model.
