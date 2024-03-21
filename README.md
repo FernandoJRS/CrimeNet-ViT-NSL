@@ -19,3 +19,5 @@ This section shows some performance of the CrimeNet model.
 This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It can be found in the UBI_Fights directory. In it you can find the evaluation Jupyter notebook EvaluateCrimeNet, the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model.
 
 [UBI_Fights dataset](http://socia-lab.di.ubi.pt/EventDetection/)
+[UBI_Fights ViT](http://socia-lab.di.ubi.pt/EventDetection/](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/ViT.py))
+[UBI_Fights EvaluateCrimeNet](http://socia-lab.di.ubi.pt/EventDetection/](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)
