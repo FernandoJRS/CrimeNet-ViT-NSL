@@ -22,6 +22,6 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 [UBI_Fights ViT](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/ViT.py)
 
-[UBI_Fights CrimeNetTraining]([http://socia-lab.di.ubi.pt/EventDetection/](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/CrimeNetTraining.ipynb))
+[UBI_Fights CrimeNetTraining](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/CrimeNetTraining.ipynb)
 
 [UBI_Fights EvaluateCrimeNet](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)
