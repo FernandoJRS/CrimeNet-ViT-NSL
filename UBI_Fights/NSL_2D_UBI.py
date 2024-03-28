@@ -4,6 +4,7 @@ import datetime
 from Data_UBI import *
 
 vit_model = create_vit_classifier()
+vit_model.summary()
 
 adv_config = nsl.configs.make_adv_reg_config(multiplier=0.2,
                                              adv_step_size=0.05,
