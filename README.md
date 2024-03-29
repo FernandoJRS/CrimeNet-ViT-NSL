@@ -28,4 +28,4 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 [UBI_Fights EvaluateCrimeNet](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)
 
-![UBI AUC ROC](UBI_Fights/figures/auc roc.png?raw=True "UBI AUC ROC") | ![UBI AUC PR](UBI_Fights/figures/auc pr.png?raw=True "UBI AUC PR")
+![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC") | ![UBI AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI AUC PR")
