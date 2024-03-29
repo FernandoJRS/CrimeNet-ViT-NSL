@@ -46,6 +46,3 @@ start_time_test = time.time()
 adv_model.evaluate(generatorData(test_total_op, test_total_rgb, num_classes, batch_size=32),
                    steps=int(len(test_total_op) / 32))
 print('Inference time: ' + str((time.time() - start_time_test) / len(test_total_op)))
-
-if __name__ == '__main__':
-    pass
