@@ -30,4 +30,5 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
-![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC") | ![UBI AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI AUC PR")
+![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC")
+![UBI AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI AUC PR")
