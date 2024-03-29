@@ -18,7 +18,7 @@ This section shows some performance of the CrimeNet model.
 
 ### UBI Fights
 
-This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It can be found in the UBI_Fights directory. In it you can find the evaluation Jupyter notebook EvaluateCrimeNet, the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model.
+This repository provides the evaluation code and the pre-trained CrimeNet model for the UBI-Fights dataset. It is located in the UBI_Fights directory. In it you can find the Jupyter evaluation notebook EvaluateCrimeNet, the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model. The training workbook is also provided in CrimeNetTraining, as well as a Tensorboard with all the related graphs and data whose checkpoint is located in Results/logs/checkpoint/ in the tensorboard file.
 
 [UBI_Fights dataset](http://socia-lab.di.ubi.pt/EventDetection/)
 
@@ -27,5 +27,7 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 [UBI_Fights CrimeNetTraining](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/CrimeNetTraining.ipynb)
 
 [UBI_Fights EvaluateCrimeNet](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)
+
+The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
 ![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC") | ![UBI AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI AUC PR")
