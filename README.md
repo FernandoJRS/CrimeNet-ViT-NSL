@@ -28,6 +28,9 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 [UBI_Fights EvaluateCrimeNet](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/EvaluateCrimeNet.ipynb)
 
+[UBI_Fights Tensorboard](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/Tensorboard.ipynb)
+
+
 The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
 ![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC")
