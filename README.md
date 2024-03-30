@@ -46,8 +46,9 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 [RLVS CrimeNetTraining](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/CrimeNetTraining.ipynb)
 
-[RLVS Tensorboard](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/Tensorboard.ipynb)
+[RLVS EvaluateCrimeNet](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/EvaluateCrimeNet.ipynb)
 
+[RLVS Tensorboard](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/Tensorboard.ipynb)
 
 The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
