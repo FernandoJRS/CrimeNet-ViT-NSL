@@ -36,7 +36,7 @@ The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
 ![UBI_Fights AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI_Fights AUC PR")
 
-### Real Life Violence Situations Fights
+### Real Life Violence Situations
 
 This repository provides the evaluation code and the pre-trained CrimeNet model for the RLVS dataset. It is located in the RLVS  directory. In it you can find the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model. The training workbook is also provided in CrimeNetTraining, as well as a Tensorboard with all the related graphs and data whose checkpoint is located in Results/logs/checkpoint/ in the tensorboard file.
 
