@@ -30,8 +30,27 @@ This repository provides the evaluation code and the pre-trained CrimeNet model 
 
 [UBI_Fights Tensorboard](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/UBI_Fights/Tensorboard.ipynb)
 
+The AUC PR and AUC ROC plots for CrimeNet are shown below.
+
+![UBI_Fights AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI_Fights AUC ROC")
+
+![UBI_Fights AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI_Fights AUC PR")
+
+### Real Life Violence Situations Fights
+
+This repository provides the evaluation code and the pre-trained CrimeNet model for the RLVS dataset. It is located in the RLVS  directory. In it you can find the script with the ViT model architecture and in the subdirectory Results/logs/checkpoint/, in the file check.txt you can find the link to download the pre-trained model. The training workbook is also provided in CrimeNetTraining, as well as a Tensorboard with all the related graphs and data whose checkpoint is located in Results/logs/checkpoint/ in the tensorboard file.
+
+[RLVS dataset](https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset)
+
+[RLVS ViT](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/ViT.py)
+
+[RLVS CrimeNetTraining](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/CrimeNetTraining.ipynb)
+
+[RLVS Tensorboard](https://github.com/FernandoJRS/CrimeNet-ViT-NSL/blob/main/RLVS/Tensorboard.ipynb)
+
 
 The AUC PR and AUC ROC plots for CrimeNet are shown below.
 
-![UBI AUC ROC](UBI_Fights/figures/auc_roc.png?raw=True "UBI AUC ROC")
-![UBI AUC PR](UBI_Fights/figures/auc_pr.png?raw=True "UBI AUC PR")
+![RLVS AUC ROC](RLVS/figures/auc_roc.png?raw=True "RLVS AUC ROC")
+
+![RLVS AUC PR](RLVS/figures/auc_pr.png?raw=True "RLVS AUC PR")
