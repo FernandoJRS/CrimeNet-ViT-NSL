@@ -4,9 +4,7 @@
 
 This is the code for the paper:
 
-[CrimeNet: Neural Structured Learning using Vision Transformer for
-violence detection<br/>
-Fernando J. Rendón-Segador, Juan A. Álvarez-García, Jose L. Salazar-González, Tatiana Tommasi](https://www.mdpi.com/2079-9292/10/13/1601/htm](https://www.sciencedirect.com/science/article/pii/S0893608023000606)
+[CrimeNet: Neural Structured Learning using Vision Transformer for violence detection<br/> Fernando J. Rendón-Segador, Juan A. Álvarez-García, Jose L. Salazar-González, Tatiana Tommasi](https://www.sciencedirect.com/science/article/pii/S0893608023000606)
 
 CrimeNet is a Visit Transformer (ViT)-based deep learning model that employs neural structured learning with adversarial regularization for violence detection. In this repository, we show some tests carried out with videos of violence in real environments.
 
