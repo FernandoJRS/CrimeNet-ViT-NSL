@@ -6,8 +6,8 @@ import os
 from sklearn.model_selection import StratifiedShuffleSplit
 from ViT import *
 
-path_videos_nv = '/home/user/work/data/RLVS/NonViolence/'
-path_videos_v = '/home/user/work/data/RLVS/Violence/'
+path_videos_nv = 'E:/RLVS/NonViolence/'
+path_videos_v = 'E:/RLVS/Violence/'
 
 videos_v = os.listdir(path_videos_v)
 videos_nv = os.listdir(path_videos_nv)
