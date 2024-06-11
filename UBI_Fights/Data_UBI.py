@@ -7,12 +7,12 @@ import os
 import csv
 from ViT import *
 
-path_base = 'E:/UBI-Fights/annotation/'
-path_videos = 'E:/UBI-Fights/videos/'
+path_base = 'E:/UBI_FIGHTS/annotation/'
+path_videos = 'E:/UBI_FIGHTS/videos/'
 
 annotations = os.listdir(path_base)
 videos = os.listdir(path_videos + 'fight/') + os.listdir(path_videos + 'normal/')
-test_videos = [l[0] + '.mp4' for l in list(csv.reader(open('E:/UBI-Fights/test_videos.csv')))]
+test_videos = [l[0] + '.mp4' for l in list(csv.reader(open('E:/UBI_FIGHTS/test_videos.csv')))]
 train_videos = [p for p in videos if [p] not in test_videos]
 
 width = 224
